@@ -1,0 +1,17 @@
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.exe
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.deps.json
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.runtimeconfig.json
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.pdb
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.FromBanHang.resources
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.csproj.GenerateResource.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.AssemblyInfoInputs.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.AssemblyInfo.cs
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\refint\QuanLyBanHang.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.pdb
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.genruntimeconfig.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\ref\QuanLyBanHang.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBa.0E1441E5.Up2Date
