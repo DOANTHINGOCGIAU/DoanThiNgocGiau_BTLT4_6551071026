@@ -1,0 +1,17 @@
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.exe
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.deps.json
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.runtimeconfig.json
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.pdb
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.Form1.resources
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.csproj.GenerateResource.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.AssemblyInfoInputs.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.AssemblyInfo.cs
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.csproj.CoreCompileInputs.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\refint\GymFitLife.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.pdb
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.genruntimeconfig.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\ref\GymFitLife.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.csproj.Up2Date
