@@ -1,0 +1,17 @@
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.exe
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.deps.json
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.runtimeconfig.json
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.pdb
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.Form1.resources
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.csproj.GenerateResource.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.AssemblyInfoInputs.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.AssemblyInfo.cs
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.csproj.CoreCompileInputs.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\refint\GhiChuNhanhBangTay.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.pdb
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.genruntimeconfig.cache
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\ref\GhiChuNhanhBangTay.dll
+C:\DOANTHINGOCGIAU_6551071026_BTLT5\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNh.60835CDA.Up2Date
